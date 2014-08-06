@@ -1,0 +1,9 @@
+Building samplecoin
+
+See doc/readme-qt.rst for instructions on building samplecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of samplecoin.
+
+See doc/build-*.txt for instructions on building samplecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of samplecoin.
